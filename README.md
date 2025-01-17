@@ -59,8 +59,7 @@ pip install pyttsx3 pywin32
 This project is licensed under the MIT License – feel free to use, modify, and distribute!
 🌟 Contributing
 
-Pull requests are welcome! If you have feature suggestions, open an issue or submit a PR.
-✉️ Contact
+Pull requests are welcome! 
 
 
 
